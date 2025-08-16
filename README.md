@@ -1,6 +1,4 @@
 
-
-review plan : ([09/05/1404],[11/05/1404],[13/05/1404])
 # 🚀 Starting a NestJS Application from Scratch
 
 This guide walks you through creating a basic NestJS application **without using the CLI**, explaining each concept and configuration clearly.
